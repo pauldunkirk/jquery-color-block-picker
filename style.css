@@ -1,0 +1,68 @@
+body {
+  transform: scale(.9);
+}
+
+.redColorBox {
+  text-align: center;
+  background-color: red;
+  height: 120px;
+  width: 120px;
+  float: left;
+
+  /*padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  display: inline;
+  margin: 10px;
+  font-size: 120%;
+  border-style: groove;
+  border-width: 10px;*/
+}
+.blueColorBox {
+  background-color: blue;
+  height: 120px;
+  width: 120px;
+  float: left;
+
+}
+.yellowColorBox {
+  background-color: yellow;
+  height: 120px;
+  width: 120px;
+  float: left;
+
+  /*padding: 30px;
+  border-radius: 60px;
+  position: relative;
+  display: inline;
+  margin: 30px;
+  font-size: 250%;
+  border-style: groove;
+  border-width: 50px;*/
+}
+.greenColorBox {
+  background-color: green;
+  height: 120px;
+  width: 120px;
+  float: left;
+
+  /*padding: 30px;
+  border-radius: 60px;
+  position: relative;
+  display: inline;
+  margin: 30px;
+  font-size: 250%;
+  border-style: groove;
+  border-width: 50px;*/
+}
+
+#notaButton {
+  /*border-radius: 20px;*/
+  padding: 50px
+  margin: 10px;
+  font-size: 120%;
+  border-style: double;
+}
+h1  {
+  text-align: center;
+}
